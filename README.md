@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Sakda! 👋
 
-<!--
-**Saakdo/Saakdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Computer Engineering student at Mahidol University International College. I am passionate about writing clean code and building scalable systems, bridging the gap between software and hardware to solve complex operational challenges. 
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack
+* **Languages:** Python, Lua, Java, C++, JavaScript
+* **Web & Data:** React, PostgreSQL, spaCy (NLP)
+* **Hardware & IoT:** ESP32, Raspberry Pi, Network Architecture
+* **Tools:** Electron, Aseprite, FL Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+Here are a few things I'm proud of building:
+
+* 🩺 **[Medical Jargon Translator](LINK_TO_REPO_HERE):** A custom spaCy NLP model trained to translate complex MRI reports into layman's terms. 
+* 🎮 **[8-Bit Turn-Based RPG](LINK_TO_REPO_HERE):** A retro game engine built from scratch in Lua, featuring a robust state machine and custom Aseprite assets.
+* 🏭 **[Full-Stack Inventory System](LINK_TO_REPO_HERE):** A React/Electron desktop application backed by PostgreSQL, built to streamline manufacturing stock management. 
+
+### ⚡ Currently Exploring
+* Tinkering with local AI deployments and running offline LLMs.
+* Advanced sound design and retro game music production.
+
+### 📫 Let's Connect
+* **Email:** golfaims@gmail.com
+* **LinkedIn:** [Your LinkedIn URL here]
