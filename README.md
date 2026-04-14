@@ -4,7 +4,8 @@ I'm a third-year Computer Engineering student at Mahidol University Internationa
 
 ### 🛠️ My Tech Stack
 * **Languages:** Python, Lua, Java, C++, JavaScript
-* **Web & Data:** React, PostgreSQL, spaCy (NLP)
+* **Web & Frontend:** React, HTML/CSS, Electron
+* **Data & AI:** PostgreSQL, spaCy (NLP), Custom NER
 * **Hardware & IoT:** ESP32, Raspberry Pi, Network Architecture
 * **Tools:** Electron, Aseprite, FL Studio
 
