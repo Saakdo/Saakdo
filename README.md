@@ -12,7 +12,7 @@ I'm a third-year Computer Engineering student at Mahidol University Internationa
 ### 🚀 Featured Projects
 Here are a few things I'm proud of building:
 
-* 🏭 **[Company Website]():** A website I created for a company. 
+* 🏭 **[Company Website](https://github.com/Saakdo/website-frontend):** A website I created for a company. 
 * 🩺 **[Medical Jargon Translator](LINK_TO_REPO_HERE):** A custom spaCy NLP model trained to translate complex MRI reports into layman's terms. 
 * 🎮 **[8-Bit Turn-Based RPG](https://github.com/Saakdo/lua-retro-rpg):** A retro game engine built from scratch in Lua, featuring a robust state machine and custom Aseprite assets.
 * 🏭 **[Full-Stack Inventory System](LINK_TO_REPO_HERE):** A React/Electron desktop application backed by PostgreSQL, built to streamline manufacturing stock management. 
